@@ -1,0 +1,41 @@
+body{
+	background: url(../dist/img/1.png) no-repeat center center fixed;
+	background-size: cover;
+}
+.main-section{
+	margin: 0 auto;
+	margin-top:25%;
+	padding: 0;
+}
+.modal-content{
+	background-color: #ffffff;
+	opacity: .90;
+	padding: 0 20px;
+}
+.user-img{
+margin-top: -50px;
+margin-bottom: 35px;
+
+}
+.user-img img{
+	width: 100px;
+	height: 130px;
+}
+
+.form-group{
+	height: 42px;
+	font-size: 18px;
+	border: 0;
+}
+button{
+	width: 60%;
+	height: 5px 0 25px;
+}
+
+.forgot{
+	padding: 10px;
+}
+.forgot a{
+	background-color: #fff;
+	font-size: 18px;
+}
